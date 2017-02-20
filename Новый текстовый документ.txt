@@ -1,0 +1,17 @@
+јбсолютное позиционирование отличаетс€ тем, что ¬ы указываете точное размещение объекта и извлекаете его из обычного потока элементов. “ак, если ¬аш первый <p></p> оставить так, как и прежде, но и дл€ вашего следующего <p></p> ¬ы задали position:absolute ; left:500px; top:500px; тогда он по€витьс€ именно в этом месте, независимо от предыдущего
+
+.
+полное отбражение
+.fullpage {
+     height: 100vh;      /*--- 100% от высоты видимой области страницы в браузере ---*/
+     width: 100vw;     /*--- 100% от ширины ---*/
+}
+градиент
+background: linear-gradient(to top, #fefcea, #f1da36);
+background: radial-gradient(circle at 80px 40px, #f9eec7, #ffb60f, #ffb60f);
+2 фона
+.block {
+    background: url(images/bg_left.gif) repeat-y,
+                #fff url(images/bg_right.gif) repeat-y 100% 0; 
+    padding: 10px; /* ѕол€ вокруг текста */
+   }

@@ -1,0 +1,84 @@
+/* line 2, ../sass/sass.sass */
+body { background-color: #fafafa !important; overflow-x: hidden; }
+
+/* line 11, ../sass/sass.sass */
+::-webkit-scrollbar { width: 5px; }
+
+/* line 14, ../sass/sass.sass */
+::-webkit-scrollbar-thumb:enabled { border-width: 1px 1px 1px 2px; border-color: #777; background-color: #aaa; }
+/* line 18, ../sass/sass.sass */
+::-webkit-scrollbar-thumb:hover { border-width: 1px 1px 1px 2px; border-color: #555; background-color: #777; }
+/* line 22, ../sass/sass.sass */
+::-webkit-scrollbar-thumb:active { background-color: orange; }
+
+/* line 24, ../sass/sass.sass */
+#block1 { padding-top: 40px; height: 100px; padding-left: 20px; padding-right: 20px; }
+/* line 30, ../sass/sass.sass */
+#block1 .row .bl2 { position: fixed; top: 40px; right: 20px; }
+/* line 34, ../sass/sass.sass */
+#block1 .row .bl2 img { float: right; width: 50px; height: 50px; }
+/* line 38, ../sass/sass.sass */
+#block1 a { text-decoration: none; }
+/* line 40, ../sass/sass.sass */
+#block1 h1 { color: #000; font-family: "Open Sans"; font-weight: 500; font-size: 20px; }
+
+/* line 45, ../sass/sass.sass */
+#block2 { padding-top: 60px; height: 250px; text-align: center; padding-right: 80px; padding-left: 80px; }
+/* line 51, ../sass/sass.sass */
+#block2 img { width: 50px; height: 50px; margin-top: 15px; }
+/* line 56, ../sass/sass.sass */
+#block2 .row h1 { font-size: 35px; font-family: "Taviraj"; font-style: italic; font-weight: 500; }
+/* line 61, ../sass/sass.sass */
+#block2 .row h3 { font-family: "Cinzel"; font-size: 18px; }
+
+/* line 65, ../sass/sass.sass */
+#block3 { display: block; padding-top: 30px; padding-right: 80px; padding-left: 80px; }
+/* line 70, ../sass/sass.sass */
+#block3 #bl3 { position: relative; display: inline-block; max-height: 350px; min-height: 350px; background-color: lightgray; border: 15px solid white; }
+/* line 77, ../sass/sass.sass */
+#block3 #bl-clear { max-height: 350px; min-height: 350px; background-color: inherit; }
+/* line 81, ../sass/sass.sass */
+#block3 #bl-clear h1 { padding-top: 120px; font-family: "ComfortaaBold"; font-size: 24px; text-align: center; }
+/* line 86, ../sass/sass.sass */
+#block3 #bl-clear h2 { font-family: "ComfortaaRegular"; font-size: 12px; text-align: center; }
+
+/* line 90, ../sass/sass.sass */
+#section1 { background-color: #eeeeee; padding: 100px 80px 100px 80px; }
+/* line 94, ../sass/sass.sass */
+#section1 div div { text-align: center !important; }
+/* line 98, ../sass/sass.sass */
+#section1 div div div header span { font-size: 50px; color: #4d4d4d; }
+/* line 101, ../sass/sass.sass */
+#section1 div div div h1 { font-size: 16px; font-family: "Open Sans", serif; font-weight: 600; letter-spacing: 1px; }
+/* line 106, ../sass/sass.sass */
+#section1 div div div p { font-size: 14px; font-family: "Open Sans", serif; font-weight: 400; letter-spacing: 0.5px; }
+
+/* line 112, ../sass/sass.sass */
+#block4 { padding: 50px 80px 70px 80px; }
+/* line 119, ../sass/sass.sass */
+#block4 div div section div div p { padding-top: 5px; font-family: "Open Sans", serif; font-style: normal; font-weight: normal; font-size: 16px; letter-spacing: 1px; }
+/* line 126, ../sass/sass.sass */
+#block4 div div section #socialising { margin-top: 0px !important; padding-left: 0; padding-top: 10px; }
+/* line 130, ../sass/sass.sass */
+#block4 div div section #socialising a { padding: 8px; }
+/* line 132, ../sass/sass.sass */
+#block4 div div section #socialising a img { width: 20px; height: 20px; }
+/* line 135, ../sass/sass.sass */
+#block4 div div section header { width: 30px; border-bottom: 1px solid black; }
+/* line 138, ../sass/sass.sass */
+#block4 div div section ul { list-style: none; margin-top: -10px !important; padding-left: 0 !important; }
+/* line 142, ../sass/sass.sass */
+#block4 div div section ul li { font-family: "Open Sans", serif; font-style: normal; font-weight: normal; font-size: 16px; letter-spacing: 1px; }
+/* line 148, ../sass/sass.sass */
+#block4 h1 { color: #222222; font-size: 23px; font-family: "Open Sans", serif; font-weight: 600; letter-spacing: 1px; }
+
+/* line 155, ../sass/sass.sass */
+footer { text-align: center; bottom: 0; width: 100%; height: 180px; background-color: #0d332c; padding-right: 0; padding-left: 0; }
+/* line 163, ../sass/sass.sass */
+footer ul { padding-left: 0; padding-top: 55px; padding-bottom: 15px; }
+/* line 167, ../sass/sass.sass */
+footer ul a { padding: 8px; }
+/* line 169, ../sass/sass.sass */
+footer ul a img { width: 20px; height: 20px; }
+/* line 172, ../sass/sass.sass */
+footer span { font-family: "ArvoRegular"; font-size: 14px; color: white; }

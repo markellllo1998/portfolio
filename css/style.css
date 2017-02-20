@@ -1,0 +1,110 @@
+/* font-family: "ArvoRegular"; */
+@font-face {
+    font-family: "ArvoRegular";
+    src: url("../fonts/ArvoRegular/ArvoRegular.eot");
+    src: url("../fonts/ArvoRegular/ArvoRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ArvoRegular/ArvoRegular.woff") format("woff"),
+    url("../fonts/ArvoRegular/ArvoRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "ArvoBold"; */
+@font-face {
+    font-family: "ArvoBold";
+    src: url("../fonts/ArvoBold/ArvoBold.eot");
+    src: url("../fonts/ArvoBold/ArvoBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ArvoBold/ArvoBold.woff") format("woff"),
+    url("../fonts/ArvoBold/ArvoBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "ArvoItalic"; */
+@font-face {
+    font-family: "ArvoItalic";
+    src: url("../fonts/ArvoItalic/ArvoItalic.eot");
+    src: url("../fonts/ArvoItalic/ArvoItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ArvoItalic/ArvoItalic.woff") format("woff"),
+    url("../fonts/ArvoItalic/ArvoItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "ArvoBoldItalic"; */
+@font-face {
+    font-family: "ArvoBoldItalic";
+    src: url("../fonts/ArvoBoldItalic/ArvoBoldItalic.eot");
+    src: url("../fonts/ArvoBoldItalic/ArvoBoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ArvoBoldItalic/ArvoBoldItalic.woff") format("woff"),
+    url("../fonts/ArvoBoldItalic/ArvoBoldItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "ComfortaaRegular"; */
+@font-face {
+    font-family: "ComfortaaRegular";
+    src: url("../fonts/ComfortaaRegular/ComfortaaRegular.eot");
+    src: url("../fonts/ComfortaaRegular/ComfortaaRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ComfortaaRegular/ComfortaaRegular.woff") format("woff"),
+    url("../fonts/ComfortaaRegular/ComfortaaRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "ComfortaaLight"; */
+@font-face {
+    font-family: "ComfortaaLight";
+    src: url("../fonts/ComfortaaLight/ComfortaaLight.eot");
+    src: url("../fonts/ComfortaaLight/ComfortaaLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ComfortaaLight/ComfortaaLight.woff") format("woff"),
+    url("../fonts/ComfortaaLight/ComfortaaLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "ComfortaaBold"; */
+@font-face {
+    font-family: "ComfortaaBold";
+    src: url("../fonts/ComfortaaBold/ComfortaaBold.eot");
+    src: url("../fonts/ComfortaaBold/ComfortaaBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ComfortaaBold/ComfortaaBold.woff") format("woff"),
+    url("../fonts/ComfortaaBold/ComfortaaBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "AleksandraCRegular";
+    src: url("../fonts/AleksandraCRegular/AleksandraCRegular.eot");
+    src: url("../fonts/AleksandraCRegular/AleksandraCRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/AleksandraCRegular/AleksandraCRegular.woff") format("woff"),
+    url("../fonts/AleksandraCRegular/AleksandraCRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "CleanvertisingLight"; */
+@font-face {
+    font-family: "CleanvertisingLight";
+    src: url("../fonts/CleanvertisingLight/CleanvertisingLight.eot");
+    src: url("../fonts/CleanvertisingLight/CleanvertisingLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/CleanvertisingLight/CleanvertisingLight.woff") format("woff"),
+    url("../fonts/CleanvertisingLight/CleanvertisingLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "CleanvertisingBlack"; */
+@font-face {
+    font-family: "CleanvertisingBlack";
+    src: url("../fonts/CleanvertisingBlack/CleanvertisingBlack.eot");
+    src: url("../fonts/CleanvertisingBlack/CleanvertisingBlack.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/CleanvertisingBlack/CleanvertisingBlack.woff") format("woff"),
+    url("../fonts/CleanvertisingBlack/CleanvertisingBlack.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "GostARegular";
+    src: url("../fonts/GostARegular/GostARegular.eot");
+    src: url("../fonts/GostARegular/GostARegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GostARegular/GostARegular.woff") format("woff"),
+    url("../fonts/GostARegular/GostARegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
